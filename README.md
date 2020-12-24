@@ -11,7 +11,3 @@
 **Languages and frameworks**: *R* | *ggplot* | *knitr*
 
 ### [Read the Report](https://github.com/gregtozzi/north_carolina_crime/blob/master/north_carolina_crime.pdf)
-
-### [Examine the Code](https://github.com/gregtozzi/north_carolina_crime/blob/master/north_carolina_crime.Rmd)
-
-### [Back to Portfolio](https://github.com/gregtozzi/portfolio/)
